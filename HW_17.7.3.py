@@ -15,8 +15,6 @@ deposit.append(bank_3)
 bank_4 = round(int(money)*(per_cent['СБЕР']/100))
 deposit.append(bank_4)
 
-print(deposit)
-
 print('ТКБ:', deposit[0], '\n'
       'СКБ:', deposit[1], '\n'
       'ВТБ:', deposit[2], '\n'
