@@ -1,2 +1,2 @@
 tik = int(input())
-age = 0
+age =
